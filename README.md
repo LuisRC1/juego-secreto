@@ -1,0 +1,1 @@
+El proyecto ofrece una solución descifrando un número secreto del 1 al 10 generado aleatoriamente, brindado pistas que ayudan a su descubrimiento. Incluye un botón para iniciar nuevamente el juego, facilitando su reutilización.
